@@ -1,0 +1,19 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShepherdBoyy/electron-app.git"
+  },
+  "author": "ShepherdBoyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShepherdBoyy/electron-app/issues"
+  },
+  "homepage": "https://github.com/ShepherdBoyy/electron-app#readme"
+}
