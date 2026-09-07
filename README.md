@@ -1,34 +1,7 @@
-# electron-app
+<h1 align="center">Jhey Marc Abad</h1>
 
-An Electron application with React and TypeScript
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+AI-powered+applications" alt="Typing SVG" />
+</p>
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
-```bash
-$ npm install
-```
-
-### Development
-
-```bash
-$ npm run dev
-```
-
-### Build
-
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
+I'm a full-stack developer who enjoys building complete, working products — from web apps to AI-powered systems that solve real problems. Comfortable across the stack with React, Node/Express, Laravel, and Python, with hands-on experience training and deploying machine learning models for computer vision and predictive tasks.
