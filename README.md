@@ -43,3 +43,17 @@ I'm a mobile and web developer who enjoys building complete, working products â€
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ShepherdBoyy&hide_border=true&theme=tokyonight" />
 </p>
+
+## Connect
+
+<p align="center">
+  <a href="mailto:jmarc.abad26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jmarcabad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jmarc-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
+  </a>
+</p>
