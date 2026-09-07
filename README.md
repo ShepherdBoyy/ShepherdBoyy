@@ -36,10 +36,10 @@ I'm a mobile and web developer who enjoys building complete, working products â€
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShepherdBoyy&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShepherdBoyy&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShepherdBoyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShepherdBoyy&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShepherdBoyy&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=ShepherdBoyy&hide_border=true&theme=tokyonight" />
 </p>
