@@ -1,8 +1,5 @@
-![Header Banner](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+![Header Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-I'm a full-stack developer who enjoys building complete, working products — from web 
-platforms to mobile apps. Lately, I've been especially drawn to combining traditional 
-development with AI and machine learning, whether that's computer vision, object detection, 
-or predictive models.
+I'm a full-stack developer who loves turning ideas into real, working products — from web apps to mobile apps. Lately I've been really into mixing regular development with AI and machine learning, like computer vision, object detection, and predictive models.
 
-I like taking an idea all the way from concept to a fully functioning system, not just a demo.
+I'm the kind of dev who likes seeing a project all the way through — not just a demo, but something that actually works end to end.
