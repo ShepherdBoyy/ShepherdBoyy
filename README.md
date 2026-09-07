@@ -33,13 +33,13 @@ I'm a mobile and web developer who enjoys building complete, working products â€
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-## Featured Projects
+## GitHub Stats
 
-| Project | Description |
-|---|---|
-| [Style Match](https://github.com/ShepherdBoyy/style-match) | AI-powered mobile app recommending hairstyles using YOLO11 object detection and face-swap previews |
-| [Study Compass](https://github.com/ShepherdBoyy/study-compass) | Thesis project analyzing student study patterns with machine learning to recommend better study habits |
-| [Currency Trace](https://github.com/ShepherdBoyy/currency-trace) | AI-powered currency recognition app using a custom-trained TensorFlow object detection model |
-| [Community Connect](https://github.com/ShepherdBoyy/community-connect) | Full-stack barangay management system for digitizing resident and household records |
-| [Track Wise](https://github.com/ShepherdBoyy/track-wise) | Hospital invoice tracking system built for a medical supply company, in active use today |
-| [Outfitted](https://github.com/ShepherdBoyy/outfitted) | Fashion mood board app for curating and planning outfit ideas |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShepherdBoyy&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShepherdBoyy&layout=compact&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShepherdBoyy&hide_border=true&theme=default" />
+</p>
