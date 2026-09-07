@@ -32,3 +32,14 @@ I'm a mobile and web developer who enjoys building complete, working products â€
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [Style Match](https://github.com/ShepherdBoyy/style-match) | AI-powered mobile app recommending hairstyles using YOLO11 object detection and face-swap previews |
+| [Study Compass](https://github.com/ShepherdBoyy/study-compass) | Thesis project analyzing student study patterns with machine learning to recommend better study habits |
+| [Currency Trace](https://github.com/ShepherdBoyy/currency-trace) | AI-powered currency recognition app using a custom-trained TensorFlow object detection model |
+| [Community Connect](https://github.com/ShepherdBoyy/community-connect) | Full-stack barangay management system for digitizing resident and household records |
+| [Track Wise](https://github.com/ShepherdBoyy/track-wise) | Hospital invoice tracking system built for a medical supply company, in active use today |
+| [Outfitted](https://github.com/ShepherdBoyy/outfitted) | Fashion mood board app for curating and planning outfit ideas |
