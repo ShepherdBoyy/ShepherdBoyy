@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Jhey Marc Abad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+AI-powered+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Poppins&weight=500&color=F97316&lines=Full-Stack+Developer;Software+Engineer;Building+AI-powered+applications" alt="Typing SVG" />
 </p>
 
 I'm a mobile and web developer who enjoys building complete, working products — from full-stack applications to systems powered by AI and machine learning.
