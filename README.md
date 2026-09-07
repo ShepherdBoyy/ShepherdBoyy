@@ -1,4 +1,4 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=180&section=header&text=Jhey%20Marc%20Abad&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18)
+![Header Banner](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
 
 I'm a full-stack developer who enjoys building complete, working products — from web 
 platforms to mobile apps. Lately, I've been especially drawn to combining traditional 
