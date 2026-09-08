@@ -1,14 +1,6 @@
 ![Header Banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<table width="100%">
-  <tr>
-    <td width="33%"></td>
-    <td width="34%" align="center"><h1>Hi, I'm Jhey Marc Abad 👋</h1></td>
-    <td width="33%" align="right">
-      <img src="https://komarev.com/ghpvc/?username=ShepherdBoyy&color=4F46E5&style=flat&label=Profile+Views" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi, I'm Jhey Marc Abad 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&lines=Full-Stack+Developer;Software+Engineer;Building+AI-powered+applications" alt="Typing SVG" />
