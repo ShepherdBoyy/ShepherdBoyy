@@ -57,3 +57,7 @@ I'm a mobile and web developer who enjoys building complete, working products â€
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShepherdBoyy&color=4F46E5&style=flat&label=Profile+Views" />
+</p>
